@@ -19,10 +19,10 @@ I am continuously building practical experience through hands-on labs and securi
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/nikabedianidze-soc/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/nikabedianidze-soc/Detection-Lab">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/nikabedianidze-soc/SOC-automation-Lab">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/nikabedianidze-soc/SOC-automation-Lab">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/nikabedianidze-soc/SOC-automation-Lab">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/nikabedianidze-soc/SOC-automation-Lab">SOC Automation Lab</a>|
 
 ## Tools
 
@@ -31,6 +31,7 @@ I am continuously building practical experience through hands-on labs and securi
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-3B4F7A?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### Network Analysis
@@ -53,6 +54,8 @@ I am continuously building practical experience through hands-on labs and securi
     <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
     <img src="https://img.shields.io/badge/-CyberChef-333333?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Any.Run-444444?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-F5A623?&style=for-the-badge&logo=TheHive&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shuffle%20SOAR-5C2D91?&style=for-the-badge&logo=Shuffle&logoColor=white" />
 </div>
 
 
@@ -63,4 +66,4 @@ I am continuously building practical experience through hands-on labs and securi
 
 ## Projects
 - <a href="https://github.com/nikabedianidze-soc/Detection-Lab">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/nikabedianidze-soc/SOC-automation-Lab">SOC Automation Lab</a>
