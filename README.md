@@ -14,7 +14,6 @@ My goal is to transition into a **SOC Analyst / Junior SOC Analyst (Tier 1)** ro
 I am continuously building practical experience through hands-on labs and security-focused training, while expanding my knowledge of defensive security operations and incident response.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
